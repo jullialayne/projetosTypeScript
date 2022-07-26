@@ -1,0 +1,20 @@
+{
+  "name": "digital-innovation-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jullia",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "jest": "^28.1.3",
+    "jquery": "^3.6.0"
+  }
+}
